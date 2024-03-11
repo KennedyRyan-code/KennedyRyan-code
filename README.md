@@ -8,6 +8,16 @@
 
 <img src="https://github.com/KennedyRyan-code/KennedyRyan-code/blob/main/Algo_badge_Award.png" height="300"> <img src="https://github.com/KennedyRyan-code/KennedyRyan-code/blob/main/OOP%20badge%20Award.png" height="320"> -->
 
+<!--
+<img align="left" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
+
+<img align="" width="1000" height="100" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
+-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentsax&label=Profile%20views&color=0e75b6&style=flat" alt="KennedyRyan-code" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KennedyRyan-code" alt="KennedyRyan-code" /></a> </p>
+
 - 🔭 I’m currently working on a StartUp Organization.
 - 🌱 I’m currently learning Back-end Specialization @African Leadership Academy (ALX Africa),
 - 👯 I’m looking to collaborate on various related projects.
