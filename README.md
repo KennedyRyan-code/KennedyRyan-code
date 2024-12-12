@@ -1,5 +1,5 @@
 ### Hello World!!! 👋
-<img src="https://github.com/KennedyRyan-code/KennedyRyan-code/blob/main/KennedyRyan-code_portfolio.png">
+<img src="https://github.com/KennedyRyan-code/KennedyRyan-code/blob/main/Cosmictech.jpg">
 
 <!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+JavaScript+Developer+)](https://git.io/typing-svg)
