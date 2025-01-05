@@ -24,7 +24,7 @@
 - 💬 Ask me about **Any topic in JavaScript, C-programming and Python**
 - 📫 How to reach me: [Email](kenryan49@gmail.com).
 - </> Website: [CosmicTech](https://realcosmic.tech/)
-- ⚡ Mantra:Impermanence .(Love and Kindness).
+- ⚡ Mantra: *Impermanence* .(Love and Kindness).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
