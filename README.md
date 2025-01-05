@@ -18,12 +18,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KennedyRyan-code" alt="KennedyRyan-code" /></a> </p>
 
-- 🔭 I’m currently working on a StartUp Organization.
-- 🌱 I’m currently learning SailsJs/Boring Javascript,
+- 🔭 I’m currently working with a StartUp Organization.
+- 🌱 I’m currently learning SailsJs & Go,
 - 👯 I’m looking to collaborate on various related projects.
 - 💬 Ask me about **Any topic in JavaScript, C-programming and Python**
 - 📫 How to reach me: [Email](kenryan49@gmail.com).
-- ⚡ Mantra: All things are made possible in God your Lord.(Love and Kindness).
+- </> Website: [CosmicTech](https://realcosmic.tech/)
+- ⚡ Mantra:Impermanence .(Love and Kindness).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
