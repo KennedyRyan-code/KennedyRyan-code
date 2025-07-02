@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KennedyRyan-code" alt="KennedyRyan-code" /></a> </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0fbd829b-33a9-426d-86fc-2917f61730f2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0fbd829b-33a9-426d-86fc-2917f61730f2" data-share-badge-host="https://www.credly.com"></div>
 
 - 🔭 I’m currently working with a StartUp Organization.
 - 🌱 I’m currently learning SailsJs & Go,
