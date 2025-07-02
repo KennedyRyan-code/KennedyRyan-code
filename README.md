@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KennedyRyan-code" alt="KennedyRyan-code" /></a> </p>
 
-[![Credly Badge](https://images.credly.com/size/150x150/images/0fbd829b-33a9-426d-86fc-2917f61730f2/image.png)](https://www.credly.com/badges/0fbd829b-33a9-426d-86fc-2917f61730f2)
+[![AWS Certified](<img src="https://images.credly.com/size/150x150/images/0fbd829b-33a9-426d-86fc-2917f61730f2/image.png"/>)](https://www.credly.com/badges/0fbd829b-33a9-426d-86fc-2917f61730f2)
 
 - 🔭 I’m currently working with a StartUp Organization.
 - 🌱 I’m currently learning SailsJs & Go,
